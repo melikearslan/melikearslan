@@ -14,7 +14,7 @@ I'm a computer engineering student at Bilkent University expected to graduate in
 - ✉ Mail:\
 melike.arslan@gmail.com\
 melikearslan97@hotmail.com\
-m.arslan@ug.bilkent.edu.tr\
+
 - <img src="https://simpleicons.org/icons/linkedin.svg" width="20" align=center> Linkedin:\
 [melikearslan97](https://www.linkedin.com/in/melikearslan97/)
 
