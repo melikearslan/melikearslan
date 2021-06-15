@@ -19,7 +19,7 @@ melikearslan97@hotmail.com\
 [melikearslan97](https://www.linkedin.com/in/melikearslan97/)
 
 **You can see my CV/Resume here:**
-📄[CV](https://drive.google.com/file/d/1fJ_pIKw9hoQ9g1pkR3WaHWd_vBMstcN5/view?usp=sharing)
+📄[CV](https://drive.google.com/file/d/1AHxihChXh5Gt4UytHJx2NRjrIHCqZWEZ/view?usp=sharing)
 
 
 **⚡ Fun fact:**\
