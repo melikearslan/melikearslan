@@ -1,6 +1,6 @@
 ### Hola fellow developer! I'm Melike. 👋
 
-I'm a computer engineer, graduated from Bilkent University June 2021. 💻
+I'm a computer engineer, graduated from Bilkent University in June 2021. 💻
 
 🌱 I’m currently trying to learn Javascript <img src="https://simpleicons.org/icons/javascript.svg" width="20" align=center> and React.js <img src="https://simpleicons.org/icons/react.svg" width="20" align=center> to enhance my front-end skills.
 
