@@ -1,6 +1,6 @@
 ### Hola fellow developer! I'm Melike. 👋
 
-I'm a computer engineering student at Bilkent University expected to graduate in June 2021. I am currently doing a long-term internship in Dogus Technology, working remotely. 💻
+I'm a computer engineer, graduated from Bilkent University June 2021. 💻
 
 🌱 I’m currently trying to learn Javascript <img src="https://simpleicons.org/icons/javascript.svg" width="20" align=center> and React.js <img src="https://simpleicons.org/icons/react.svg" width="20" align=center> to enhance my front-end skills.
 
@@ -19,7 +19,7 @@ melikearslan97@hotmail.com\
 [melikearslan97](https://www.linkedin.com/in/melikearslan97/)
 
 **You can see my CV/Resume here:**
-📄[CV](https://drive.google.com/file/d/1AHxihChXh5Gt4UytHJx2NRjrIHCqZWEZ/view?usp=sharing)
+📄[CV](https://drive.google.com/file/d/1tbnKWUsyAxBW_M1PGSGVHnhhn7DmTNN0/view?usp=sharing)
 
 
 **⚡ Fun fact:**\
