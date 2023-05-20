@@ -16,17 +16,6 @@ melikearslan97@hotmail.com\
 - <img src="https://simpleicons.org/icons/linkedin.svg" width="20" align=center> Linkedin:\
 [melikearslan97](https://www.linkedin.com/in/melikearslan97/)
 
-**You can see my CV/Resume here:**
-📄[CV](https://drive.google.com/file/d/1tbnKWUsyAxBW_M1PGSGVHnhhn7DmTNN0/view?usp=sharing)
-
-
-**⚡ Fun fact:**\
-I'm a big potterhead! You can always chat me up about anything Harry Potter related! ✨✨✨
-
-See ya! Bye!\
-![See ya!](https://media0.giphy.com/media/xm1Nzhnjfytby/giphy.webp?cid=ecf05e47p07osxuv2xad49tr0p8ngul8apm6fq8ruv6l9use&rid=giphy.webp)
-
-
 <!--
 **melikearslan/melikearslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
